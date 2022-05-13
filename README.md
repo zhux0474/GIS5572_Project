@@ -1,5 +1,5 @@
 # GIS5572_Project
-================================================================================
+
       A real-time system for stink bugs monitoring across Minnesota
       Contact information: hossa084@umn.edu, zhux0474@umn.edu
       Date: May 13, 2022
